@@ -1,0 +1,4 @@
+basketball_shoot
+cricket_batting
+tennis_swing
+volleyball_spike
